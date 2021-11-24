@@ -14,10 +14,13 @@ th, td {
     background-color: cornflowerblue;
 
 }
-.titulo{
+.titulo2{
     color: red;
     background-color: whitesmoke;
+    font-size: 16px;
 }
 .comida
 {font-family: 'PT Serif', serif;
 }
+.titulo1
+{font-size: 20px;}
