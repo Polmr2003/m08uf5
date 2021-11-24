@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Spectral');
-*{font-family: "Spectral";}
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&family=Spectral:wght@200&display=swap');
+{font-family: "Spectral";}
 table{
     width: 100%;
 }
@@ -11,9 +12,12 @@ th, td {
 .recetas{
     color: red;
     background-color: cornflowerblue;
+
 }
 .titulo{
     color: red;
     background-color: whitesmoke;
 }
-
+.comida
+{font-family: 'PT Serif', serif;
+}
