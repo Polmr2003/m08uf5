@@ -1,3 +1,40 @@
 table, th, td {
     border: 1px solid black;
+    border-collapse: collapse;
+}
+.horario{
+    text-align: center;
+}
+.matematicas{
+background-color: red;
+}
+.tecnologia{
+background-color: maroon;
+}
+.fisica{
+background-color: cornflowerblue;
+}
+.naturales{
+background-color:greenyellow;
+}
+.sociales{
+background-color:lightpink;
+}
+.tutoria{
+background-color: plum;
+}
+.quimica{
+background-color: gold;
+}
+.literatura{
+background-color: gainsboro;
+}
+.biblioteca{
+background-color: darkcyan;
+}
+.musica{
+background-color: goldenrod;
+}
+.profe{
+    font-size: 9px;
 }
