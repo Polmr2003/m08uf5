@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Serif&family=Spectral:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Outfit:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Outfit:wght@100&family=Source+Sans+Pro:wght@200&display=swap');
 
 table, th, td {
     border: 1px solid black;
@@ -46,12 +49,15 @@ background-color: goldenrod;
 }
 .freezer{
     background-color: cadetblue;
+    font-family: 'Outfit', sans-serif;
 }
 .crilin{
     background-color: orange;
+    font-family: 'Montserrat', sans-serif;
 }
 .vegetta{
     background-color: plum;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 .foto{
     text-align: center;
