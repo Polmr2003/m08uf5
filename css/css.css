@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&family=Spectral:wght@200&display=swap');
+
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
@@ -9,7 +11,7 @@ table, th, td {
 background-color: red;
 }
 .tecnologia{
-background-color: maroon;
+background-color:rosybrown;
 }
 .fisica{
 background-color: cornflowerblue;
@@ -37,4 +39,20 @@ background-color: goldenrod;
 }
 .profe{
     font-size: 9px;
+}
+.goku{
+    background-color: red;
+    font-family: 'PT Serif', serif;
+}
+.freezer{
+    background-color: cadetblue;
+}
+.crilin{
+    background-color: orange;
+}
+.vegetta{
+    background-color: plum;
+}
+.foto{
+    text-align: center;
 }
