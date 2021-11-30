@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/css.css">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Formulario</h1>
+    <form action="#" method="get">
+        <fieldset class="informacio">
+            <legend>informacion personal</legend>
+        <label for="fname">Nombre:</label><br>
+       <input type="text" id="fname" name="username" maxlength="30">
+       <br><br>
+       <label for="fsurname">Apellido:</label><br>
+       <input type="text" id="fsurname" name="Apellido" maxlength="50">
+       <br><br>
+       <label for="fecha">Fehca de nacimiento</label>
+       <input type="date" id="date" name="date">
+       <br><br>
+       Genero: <br>
+       <input type="radio" name="genero" id="hombre" value="h">
+       <label for="hombre">hombre</label>
+       <input type="radio" name="genero" id="mujer" value="m">
+       <label for="mujer">mujer</label>
+    </fieldset>
+       <br><br>
+       <fieldset class="estudios">
+           <legend>Estudios y idomas</legend>
+       estudios: <br>
+       <select name="estudios" id="estudios">
+           <option value="smx">CGFM SMX</option>
+           <option value="asix">Asix</option>
+           <option value="ESO">ESO</option>
+       </select>
+       <br><br>
+       idomas: <br>
+       <input type="radio" name="idiomas" id="Español" value="Es">
+       <label for="Español">Español</label>
+       <input type="radio" name="idomas" id="Catalan" value="C">
+       <label for="Catalan">Catalan</label>
+       <input type="radio" name="Ingles" id="Ingles" value="In">
+       <label for="In">Ingles</label>
+       <br><br>
+       </fieldset>
+       <br><br>
+       <fieldset class="contactos">
+           <legend>Contactos</legend>
+      <label for="gmail">Gmail</label><br>
+      <input type="text" id="gmail" name="gmail" maxlength="50"></input>
+      <br>
+      <label for="telefono">Telefono</label><br>
+      <input type="text" id="telefono" name="telefono" maxlength="50"></input>
+       </fieldset>
+       <br><br>
+       <label for="comentario">Comentario</label><br>
+       <textarea name="comentarios" id="comentarios" cols="30" rows="5"></textarea>
+       <br><br>
+       <input type="submit" value="Enviar" id="Enviar">
+       <input type="reset" value="Borrar" name="borrar"
+    </form>
+</body>
+</html>

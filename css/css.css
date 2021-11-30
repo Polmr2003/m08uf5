@@ -65,3 +65,17 @@ background-color: goldenrod;
 .index{
     background-color: cadetblue;
 }
+a:hover{
+    color: aliceblue;
+    background-color: black;
+}
+.informacio{
+    background-color: blanchedalmond;
+}
+.estudios{
+    background-color: aquamarine;
+}
+.contactos{
+    background-color: lightskyblue;
+}
+
