@@ -70,10 +70,10 @@ a:hover{
     background-color: black;
 }
 .informacio{
-    background-color: lightskyblue;
+    background-color: azure;
 }
 .estudios{
-    background-color: red;
+    background-color: lightskyblue;
 }
 .contactos{
     background-color: cadetblue;
@@ -82,5 +82,14 @@ a:hover{
     background-color: grey;
 }
 .nacionalidad{
-    background-color: coral;
+    background-color: greenyellow;
+}
+.inf{
+    color: lightskyblue;
+}
+.na{
+    color: orange;
+}
+.idi{
+    color: red;
 }
