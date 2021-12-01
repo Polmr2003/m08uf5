@@ -11,7 +11,7 @@
     <h1>Formulario</h1>
     <form action="#" method="get">
         <fieldset class="informacio">
-            <legend>Informacion personal</legend>
+            <legend><b>Informacion personal</b></legend>
         <label for="fname">Nombre:</label><br>
        <input type="text" id="fname" name="username" maxlength="30">
        <br><br>
@@ -27,9 +27,19 @@
        <input type="radio" name="genero" id="mujer" value="m">
        <label for="mujer">Mujer</label>
     </fieldset>
+    <br><br>
+    <fieldset class="nacionalidad">
+        <legend><b>Nacionalidad</b></legend>
+        <input type="radio" name="Nacionalidad" id="Española" value="Es">
+        <label for="Español">Español</label>
+        <input type="radio" name="Nacionalidad" id="Comunitario(UE)" value="Cm">
+        <label for="Comunitario(UE)">Comunitario(UE)</label>
+        <input type="radio" name="Nacionalidad" id="No Comunitario" value="NC">
+        <label for="No Comunitario">No Comunitario</label>
+       </fieldset>
        <br><br>
        <fieldset class="estudios">
-           <legend>Estudios y idomas</legend>
+           <legend><b>Estudios y idomas</b></legend>
        Estudios: <br>
        <select name="estudios" id="estudios">
            <option value="smx">CGFM SMX</option>
@@ -48,7 +58,7 @@
        </fieldset>
        <br><br>
        <fieldset class="contactos">
-           <legend>Contactos</legend>
+           <legend><b>Contactos</b></legend>
       <label for="gmail">Gmail</label><br>
       <input type="text" id="gmail" name="gmail" maxlength="50"></input>
       <br>
@@ -56,7 +66,7 @@
       <input type="text" id="telefono" name="telefono" maxlength="50"></input>
        </fieldset>
        <br><br>
-       <label for="comentario">Comentario</label><br>
+       <label for="comentario"><b>Comentario</b></label><br>
        <textarea name="comentarios" id="comentarios" cols="30" rows="5"></textarea>
        <br><br>
        <fieldset class="fin">

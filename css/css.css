@@ -70,14 +70,17 @@ a:hover{
     background-color: black;
 }
 .informacio{
-    background-color: blanchedalmond;
+    background-color: lightskyblue;
 }
 .estudios{
-    background-color: aquamarine;
+    background-color: red;
 }
 .contactos{
-    background-color: lightskyblue;
+    background-color: cadetblue;
 }
 .fin{
     background-color: grey;
+}
+.nacionalidad{
+    background-color: coral;
 }
