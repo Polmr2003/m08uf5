@@ -1,0 +1,19 @@
+.informacio{
+    background-color: lightsalmon;
+}
+.caracteristiques{
+    background-color: lightgreen;
+}
+.habilitats{
+    background-color: lightskyblue;
+}
+.magia{
+    background-color: lightpink;
+}
+.fin{
+    background-color: lightgrey;
+}
+.titol{
+    text-align: center;
+    color: green;
+}

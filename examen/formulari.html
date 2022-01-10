@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/ex2.css">
+    <title>Document</title>
+</head>
+<body>
+    <h1 class="titol">Fulla de l'aventurer</h1>
+    <form action="#" method="get">
+    <fieldset>
+        <fieldset class="informacio">
+           <legend><strong><ins>Informacio</ins></strong></legend> 
+           <label for="raça">Raça</label><br>
+           <input type="text" id="raça" name="raça" maxlength="30">
+           <br><br>
+           <label for="altura">Altura</label><br>
+           <input type="number" id="number" name="number">
+           <br><br>
+           <label for="Equipament">Equipament</label><br>
+           <textarea name="Equipament" id="Equipament" cols="30" rows="5"></textarea>
+        </fieldset>
+        <fieldset class="caracteristiques">
+            <legend><strong><ins>Caracteristiques</ins></strong></legend> 
+            <input type="radio" name="Caracteristiques" id="destreza" value="D">
+            <label for="destreza">Destreza</label>
+            <input type="radio" name="Força" id="Força" value="F">
+            <label for="Força">Força</label>
+            <input type="radio" name="intel.ligencia" id="intel.ligencia" value="I">
+            <label for="intel.ligencia">intel.ligencia</label>
+            <br><br>
+            <label for="Nivell">Nivell</label><br>
+            <input type="number" id="Nivell" name="Nivell">
+        </fieldset>
+        <fieldset class="habilitats">
+            <legend><strong><ins>Habilitats</ins></strong></legend>
+            <input type="checkbox" id="Agilitat" name="Agilitat" value="Agilitat">
+            <label for="Agilitat">Agilitat</label>
+            <input type="checkbox" id="Coneixement" name="Coneixement" value="Coneixement">
+            <label for="Coneixement">Coneixement</label>
+            <input type="checkbox" id="Manipulacio" name="Manipulacio" value="Manipulacio">
+            <label for="Manipulacio">Manipulacio</label>
+            <input type="checkbox" id="Percepcio" name="Percepcio" value="Percepcio">
+            <label for="Percepcio">Percepcio</label>
+        </fieldset>
+        <fieldset class="magia">
+            <legend><strong><ins>Magia</ins></strong></legend>
+            <select name="durada" id="durada">
+                <option value="abast">Abast</option>
+                <option value="durada">Durada</option>
+                <option value="Intensitat">Intensitat</option>
+            </select>
+            <br><br>
+            <label for="Tipus">Tipus</label><br>
+           <input type="text" id="Tipus" name="Tipus" maxlength="30">
+        </fieldset>
+        <br>
+        <fieldset class="fin">
+            <input type="submit" value="Jugar" id="Jugar">
+            <input type="reset" value="cancel.lar" name="cancel.lar">
+        </fieldset>
+    </fieldset>
+
+    </form>
+</body>
+</html>

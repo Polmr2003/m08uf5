@@ -1,0 +1,106 @@
+.izquierda{
+    width: 400px;
+    height: 600px;
+    float: left;
+}
+.derecha{
+    width: 200px;
+    height: 600px;
+    float: left;
+}
+.uno{
+    background-color: darkgreen;
+    width: 400px;
+    height: 75px;
+    float: left;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+.dos{
+    background-color: black;
+    color: white;
+    width: 205px;
+    height: 145px;
+    float: left;
+    margin-bottom: 5px;
+    margin-right: 5px;
+
+}
+.tres{
+    background-color: darkgreen;
+    width: 190px;
+    height: 225px;
+    float: right;
+}
+.cuatro{
+    background-color: darkgreen;
+    width: 205px;
+    height: 75px;
+    float: left;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+.cinco{
+    background-color: black;
+    color: white;
+    width: 205px;
+    height: 145px;
+    float: left;
+    margin-bottom: 5px;
+}
+.seis{
+    background-color: greenyellow;
+    width: 190px;
+    height: 70px;
+    float: right;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+.siete{
+    background-color: greenyellow;
+    width: 190px;
+    height: 70px;
+    float: right;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+.ocho{
+    background-color: greenyellow;
+    width: 195px;
+    height: 75px;
+    float: left;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+.nueve{
+    background-color: darkgreen;
+    width: 195px;
+    height: 70px;
+    float: right;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+.diez{
+    background-color: greenyellow;
+    width: 195px;
+    height: 70px;
+    float: right;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+.once{
+    background-color:black;
+    color: white;
+    width: 195px;
+    height: 150px;
+    float: right;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+.doce{
+    background-color: greenyellow;
+    width: 195px;
+    height: 70px;
+    float: right;
+    margin-left: 5px;
+}
