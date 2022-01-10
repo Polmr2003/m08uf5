@@ -14,13 +14,12 @@
     width: 200px;
     height: 50px;
     margin-bottom: 5px;
-    position: absolute;
 }
 .tres{
     background-color: aqua;
     right: 0px;
     width: 395px;
-    height: 150px;
+    height: 160px;
     margin-bottom: 5px;
     position: absolute;
 }
@@ -42,10 +41,32 @@
     width: 200px;
     height: 100px;
     margin-bottom: 5px;
+    position: absolute;
 }
 .siete{
     background-color: greenyellow;
-    width: 400px;
-    height: 50px;
+    width: 200px;
+    height: 48px;
+    margin-bottom: 5px;  
+    margin-left: 205px;
 }
-
+.ocho{
+    background-color: darkgreen;
+    width: 200px;
+    height: 47px;
+    margin-bottom: 5px;
+    margin-left: 205px;
+}
+.nueve{
+    background-color: greenyellow;
+    right: 0px;
+    width: 190px;
+    height: 155px;
+    position: absolute;
+}
+.diez{
+    background-color: greenyellow;
+    width: 405px;
+    height: 50px;
+    margin-bottom: 5px;
+}
