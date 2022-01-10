@@ -18,6 +18,7 @@
 }
 .tres{
     background-color: black;
+    color: white;
     width: 35%;
     height: 100px;
     float: left;
@@ -54,6 +55,7 @@
 }
 .ocho{
     background-color: black;
+    color: white;
     width: 29%;
     height: 105px;
     float: right;

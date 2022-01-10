@@ -1,0 +1,51 @@
+.todo{
+    width: 600px;
+    height: 600px;
+    position: absolute;
+}
+.uno{
+    background-color: greenyellow;
+    width: 600px;
+    height: 50px;
+    margin-bottom: 5px;
+}
+.dos{
+    background-color: darkgreen;
+    width: 200px;
+    height: 50px;
+    margin-bottom: 5px;
+    position: absolute;
+}
+.tres{
+    background-color: aqua;
+    right: 0px;
+    width: 395px;
+    height: 150px;
+    margin-bottom: 5px;
+    position: absolute;
+}
+.cuatro{
+    background-color: greenyellow;
+    width: 200px;
+    height: 50px;
+    margin-bottom: 5px;
+}
+.cinco{
+    background-color: darkgreen;
+    width: 200px;
+    height: 50px;
+    margin-bottom: 5px;
+}
+.seis{
+    background-color: black;
+    color: white;
+    width: 200px;
+    height: 100px;
+    margin-bottom: 5px;
+}
+.siete{
+    background-color: greenyellow;
+    width: 400px;
+    height: 50px;
+}
+
