@@ -1,5 +1,7 @@
 .total{
     width: 830px;
+    background-color: #fef2cd;
+    border-color: black;
 }
 .uno{
 
@@ -8,21 +10,23 @@
 
 }
 .tres{
-
+    text-align: center;
 }
 .cuatro{
-
+   text-align: center;
 }
 .cinco{
-
+   float: left;
 }
 .seis{
-
+    float: right;
 }
 .siete{
+    float: left;
 
 }
 .ocho{
+    text-align: center;
 
 }
 .nueve{
@@ -32,5 +36,8 @@
 
 }
 .once{
+
+}
+.doce{
 
 }
