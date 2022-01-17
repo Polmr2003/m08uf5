@@ -1,0 +1,60 @@
+#imagen:hover{
+    opacity: 50%;
+    border-color: salmon;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.todo{
+    width: 600px;
+    height: 600px;
+}
+
+.uno{
+    background-image: url(../imagenes.2/imagenes-de-fondo-para-frases.jpg);
+    width: 113px;
+    height: 200px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+}
+
+.dos{
+    background-image: url(../imagenes.2/1635833199_539664_1635833286_noticia_normal.jpg);
+    width: 100px;
+    height: 57.5px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: 112.5px;
+}
+.tres{
+    background-image: url(../imagenes.2/images.jpg);
+    width: 100px;
+    height: 66px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: 112.5px;
+    margin-top: 57px;
+}
+.cuatro{
+    background-image: url(../imagenes.2/images\ \(3\).jpg);
+    width: 100px;
+    height: 78px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: 112.5px;
+    margin-top: 123px;
+}
+.cinco{
+    background-image: url(../imagenes.2/images\ \(2\).jpg);
+    width: 213px;
+    height: 88px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-top: 200px;
+}
