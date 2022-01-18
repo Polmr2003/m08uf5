@@ -10,33 +10,40 @@
 
 }
 .tres{
-    text-align: center;
+    margin-left: 40px;
 }
 .cuatro{
-   text-align: center;
+    margin-left: 50px;
 }
 .cinco{
    float: left;
+
 }
 .seis{
     float: right;
 }
 .siete{
     float: left;
-
+    margin-top: 172px;
+    margin-left: -132px;
 }
 .ocho{
     text-align: center;
-
+    width: 350px;
+    margin-top: 30px;
+    margin-left: 100px;
 }
 .nueve{
-
+    float: left;
+    margin-top: -120px;
+    
 }
 .diez{
-
+    margin-left: 31px;
 }
 .once{
-
+    margin-top: -120px;
+    margin-left: 68px;
 }
 .doce{
 
