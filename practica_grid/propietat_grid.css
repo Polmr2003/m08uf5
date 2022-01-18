@@ -72,12 +72,8 @@
     grid-template-rows: 20% 20% 20% 20% 20%;
 }
 #vegeta{
-    grid-template-columns: 70%;
-    grid-template-rows: 70%;
     grid-row: 2;
 }
 #goku4{
-    grid-template-columns: 30%;
-    grid-template-rows: 30%;
     grid-row: 2;
 }
