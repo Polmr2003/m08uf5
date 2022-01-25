@@ -1,0 +1,8 @@
+.titulo{
+ text-align: center;
+}
+.imagen{
+ display: flex;
+ justify-content: center;
+height: 500px;
+}
