@@ -1,3 +1,6 @@
+table{
+width: 30px;
+}
 .titulo{
  text-align: center;
 }
@@ -5,4 +8,11 @@
  display: flex;
  justify-content: center;
 height: 500px;
+}
+.index{
+  background-color: aquamarine;  
+  margin-top: 30px;
+}
+.texto{
+    margin-left: 10px;
 }
