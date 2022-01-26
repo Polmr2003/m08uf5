@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Spectral');
 @import url('https://fonts.googleapis.com/css2?family=PT+Serif&family=Spectral:wght@200&display=swap');
-{font-family: "Spectral";}
+
 table{
     width: 100%;
 }
@@ -25,3 +25,4 @@ th, td {
 .titulo1{
     font-size: 20px;
 }
+
